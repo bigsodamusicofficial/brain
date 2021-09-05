@@ -1,0 +1,21 @@
+Master TODO.txt:TO DO
+.//ideas/how to write off big epidemic check.txt:TO DO
+.//Master TODO.txt:TO DO
+.//projects/_FINISHED/closer/closer.txt:TO DO
+.//projects/_FINISHED/hold me/hold me.txt:TO DO
+.//projects/_FINISHED/portraits/portraits.txt:TO DO
+.//projects/_FINISHED/quotidian/quotidian.txt:TO DO
+.//projects/albums/big soda 5th/big soda 5th.txt:TO DO
+.//projects/albums/criibaby first EP/criibaby first ep.txt:TO DO
+.//projects/albums/criibaby first LP/criibaby first LP.txt:TO DO
+.//projects/albums/floater tracks.txt:TO DO
+.//projects/albums/is our children learning/is our children learning.txt:TO DO
+.//projects/albums/ljv/ljv.txt:TO DO
+.//projects/albums/schwaomp/schwaomp.txt:TO DO
+.//projects/criibaby x surferdave live/criibaby x surferdave live.txt:TO DO
+.//projects/horizon/brelen's ep.txt:TO DO
+.//projects/pitches/is our children learning to labels.txt:TO DO
+.//projects/plugin replacement plan/plugin replacement plan.txt:TO DO
+.//projects/studios/wolf and lab.txt:TO DO
+.//src/scrape_grep.py:        if "TO DO" in read:
+.//src/start:grep -R --color 'TO DO' *.* ./ > src/grep_out

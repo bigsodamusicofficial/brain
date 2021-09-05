@@ -1,0 +1,14 @@
+FIXES
+ - fix indented done subtasks in markdown converter
+ - delete and carry over substasks of completed tasks
+ - omit finished projects and archived things from grep search
+
+
+WHENEVS
+ - migrate to github
+ - make src folder and put all code-relevant files in there
+   - generate aliases for surface-access docs in root folder
+ - make a scraper to date new production
+   - pull down csv of Daves sheet from g drive
+   - throw the new entries into done tasks, maybe with new symbol
+   - OR maybe enter a new symbol into new tracklist additions

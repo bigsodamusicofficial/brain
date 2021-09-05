@@ -1,0 +1,10 @@
+SPEC REQs:
+ - useful: https://eshop.macsales.com/guides/Mac_OS_X_Compatibility
+ - Late 2013 (mac pro 6) is the oldest cpu build that can run mavericks 10.9
+
+
+Where to buy:
+ - back market.com
+ - amazon renewed refurb
+ - craig
+ - love haight refurb?

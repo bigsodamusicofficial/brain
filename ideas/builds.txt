@@ -1,0 +1,27 @@
+Passive switcher
+ - all we need is a little switch and a few jacks. That plus a basic enclosure and we can do it
+
+Designated pad for eqs and whatnot
+ - commandeer old used pad
+ - take a designated out and throw it into the pad. Probably keep a vu meter app or spectrograph or stereo image item in there
+
+Couple controller faders
+ - I don’t know how precisely to do this but it would be fantastically useful
+ - JLCPCB: sick super cheap circuitboard prototype builder
+
+Touchscreen console
+ - we can buy an attachable screen and pair it with an old hi def monitor
+ - pretty easy except we can only use 1 touch point at a time, partially defeats the purpose of a mixing console exposed
+
+Midi controller #1: two knobs for compressor control (gain and threshold)
+ - start with just trying to configure mapping the knobs we have to plugin control first
+ - Basic:
+   - 2 knobs. This would be absolutely sick for humanizing compression plugins
+   - 2 knobs, 2 linear potentiometers
+     - maybe 2 fading lamps for hotness
+ - Bigger:
+   - 4 knobs, input, threshold, attack, release
+     - model it as the 1176 format
+     - maybe 1 more knob for ratio?
+ - hairless for serial to midi
+ - https://www.youtube.com/watch?v=DXhxdsGREsU

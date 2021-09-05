@@ -1,0 +1,25 @@
+=== 7/26 for 1.01 from client
+
+They sound really different to me. 
+
+1. The transitions are sounding quite different. In the way the sound effects are constructed. The reference has more anticipation, movement, landing with more balance between bass-mid-high.
+2. The reference feels like it has a lot more balance between bass-mid-high. The whooshes etc are not sounding the same.
+3. The radial wipes sound like a totally different sound effect. 
+4. Is the “room tone” in there?
+
+Also, feel to try a different track if it makes this easier.
+
+Do you want the protools session for the references?
+
+=== 7/27 for 1.01 from client audio guy
+
+There's a few things that stand out to my ears. In general I don't feel the
+weight of the whoosh throughs, around 1:35 gets the closest to the Mock Up
+in my opinion. It also feels like there's some elements missing (such as
+the rotary thing in the background around 19 seconds). I think it's missing
+SFX coverage, and the mix doesn't feel full-bodied enough. It feels like
+the sound elements are just being dropped in - rather than designed and
+married together.
+
+Also, I know you said just to examine the SFX, I can hear soooo much mouth
+noise in the DX (clicky and smacky) - and it feels a little harsh to me.

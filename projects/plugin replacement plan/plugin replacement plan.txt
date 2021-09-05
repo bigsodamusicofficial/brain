@@ -1,0 +1,76 @@
+TO DO
+ - Ilok bought, receive and:
+   - add 1 sound toys license
+   - add maag4 license
+ - find out how many cpus can be registered on slate license
+ - inquire with peeps about combining forces to get a couple extra license subs
+
+
+THE PLAN
+ - get trashcan that can run 10.9, use my ilok with that guy
+ - trashcan should natively run 10.14.6 (pt perpetual minimum)
+   - eventually get slate and slowly move things over to native trashcan rather than external hd
+     - involves buying plugs one at a time
+ - the tab for slate and pt subscriptions:
+   - (12.5 + 30)/6 = 7.08
+   - (12.5 + 30)/8 = 5.31
+
+
+INDESPENSIBLE
+ - Soundtoys suite {CHECK}
+ - Fabfilter suite
+   - Q2, L1/2, C2, DS, MB, G, Saturn
+ - Softube tube tech suite
+   - Cl1B, PEQ, MEQ
+ - Izotope Insight
+ - Antares Autotune
+ - Melodyne
+ - PSP2445 verb
+ - Maag4 {CHECK}
+ - Waves
+   - Rcompressor
+   - H-delay
+   - SSLcomp
+   - soundshifter pitch m/s
+   - vari-fi
+   - Cla2a
+
+
+LEANED ON
+ - Bx limiter
+ - Valhalla room
+ - JST clip
+ - Bx saturator
+ - vahalla freq echo
+ - native instruments 160
+ - Waves
+   - SSLeq
+   - doubler
+   - S1
+   - Kramer tape
+
+
+IDEAS
+ - Slate all access pass is 149.99/year (12.5/month)
+   - Sys reqs: 10.12
+   - Includes:
+     - Brit 4k (replaces SSLeq)
+     - 2A (replaces cla2a?)
+     - virtual mixbus (replaces sslcomp)
+     - virtual tape machine (replaces Kramer)
+     - sick pre emulators (replaces bx saturator)
+ - PT perpetual is 360/year (30/mo)
+   - sys reqs: 10.14.6
+   - Includes:
+     - * includes for 1 year, then you pay an amt to keep everything 
+     - pultec eqs (replaces PEQ and MEQ)
+     - Melodyne 5 (replaces buying Melodyne 5)
+     - verifi, sound shifter pitch
+     - purple mc77 comp
+     - Fairchild 660 and 670
+     - t racks s5 
+       - 2a, (replaces cla2a?)
+       - some sick modeling stuff
+       - includes linear phase eq :o
+     - also includes sick be controlled by iPad abilities which is rad
+
