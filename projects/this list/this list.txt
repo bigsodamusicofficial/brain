@@ -5,7 +5,6 @@ FIXES
 
 
 WHENEVS
- - migrate to github
  - make src folder and put all code-relevant files in there
    - generate aliases for surface-access docs in root folder
  - make a scraper to date new production
