@@ -1,15 +1,14 @@
 #!/bin/bash
 
-echo - REFRESHING DIRECTORY -
+printf "\e[32m - REFRESHING DIRECTORY - \e[m\n"
 cd ~/Documents/Github/BRAIN/
 grep -R --color 'TO DO' *.* ./ > src/grep_out
 
 python src/scrape_grep.py
 
-#rm -r src/grep_out
+rm -r src/grep_out
 
 tree -C -H . . -o list.html
 
 open list.html
 
-exit

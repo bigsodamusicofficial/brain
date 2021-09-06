@@ -18,7 +18,6 @@ with open("src/grep_out") as file_in:
   for file_to_open in file_in:
     f = file_to_open
     if ".DS_Store" in f or "tmp.drive" in f or "big_list" in f or "FINISHED" in f or "horizon" in f or "src" in f:
-      print f
       continue
     if ".txt" in f and ".//" in f:
       print file_to_open[:-7]

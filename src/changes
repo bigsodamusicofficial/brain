@@ -1,0 +1,14 @@
+#!/bin/bash
+
+printf "\e[32m - LIST CHANGES - \e[m\n"
+echo ""
+
+echo "LAST ORIGIN UPDATE: "
+git log -n 1 --pretty=format:%ad origin
+
+echo "LAST LOCAL UPDATE: "
+git log -n 1 --pretty=format:%ad
+echo ""
+
+#git log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s' --date=relative
+
