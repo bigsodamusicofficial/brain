@@ -11,3 +11,6 @@ WHENEVS
    - pull down csv of Daves sheet from g drive
    - throw the new entries into done tasks, maybe with new symbol
    - OR maybe enter a new symbol into new tracklist additions
+ - make a scraper for tu du keep note
+   - pull it down and throw unlisted items into jot
+
