@@ -4,9 +4,6 @@ alex 3 movies:
 
 recs:
  - tyler live at lolla
- - yasuke
  - mulholland drive
  - lil wayne untold story (yt)
- - mastering kendrick lamar’s humble with mike bozzi (yt)
- - frugal aes on dumbdounded (yt)
  - rick owens in studio nyt (yt)
