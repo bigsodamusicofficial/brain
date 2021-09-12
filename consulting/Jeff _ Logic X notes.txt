@@ -1,0 +1,39 @@
+LOGIC X NOTES
+
+TO DO
+ - review using x32 as logic x remote
+ - learn logic x score hotkeys
+ - watch tons more logic x vids
+   - get stupid, go stupid
+
+
+
+HOTKEYS
+ - shift cmd D: “group” tracks or track folder
+ - command L: learn, you can assign a parameter to a knob somewhere wow
+
+
+
+OTHER TIPS I DIDNT KNOW
+ - freeze: holds all plugins and midi instruments without using cpu
+ - flex pitch: melodyne but logic
+ - top left or right corner of region controls fade
+
+
+
+
+MIDI EDITOR
+ - there is literally a velocity tool
+ - midi automation
+   - looks like the little bones logo in top left editor of midi editor
+
+
+
+X32
+ - go over to remote screen
+   - change protocol to mackie mcu
+ - go to logic
+   - control surfaces -> setup
+   - add a new device, search mackie mcu
+     - search and install mackie designs mcu pro
+ - hit daw remote
