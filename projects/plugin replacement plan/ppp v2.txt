@@ -1,0 +1,31 @@
+PLUGIN ‘PLACEMENT PLAN CONDENSED
+
+
+
+THE PURCHASES
+
+ - perps:
+   - PT perp (360/yr) [1s, use ilok pt10 on other machine]
+   - izotope perp (200/yr) [1s, keep on one machine?]
+   - autotune unlimited (225/yr) [2s]
+   - plugin alliance (250/yr) [3s]
+   * perps come out to a total of 875/yr, which is ~12 a month per 6 stu people
+
+ - one times:
+   - FF total bundle 2-seater (900 * 1.60) = (1440)
+   - softube tube-tech complete collection [3s] (449)
+   - psp 2445 verb (150 * 2) = (300)
+   - rc20 [2s] = (100)
+   * one times come out to a total of 
+
+
+
+TO DO
+ - figure out if our cool ff bundle key from scotty works
+ - buy the purchases
+
+
+
+OTHER RESOURCES
+ - FF multiple seat policy: fabfilter.com/support/faq#do-you-offer-discounts-for-site-licenses-with-multiple-seats
+ - rc20 does not work on pt10 gotmfdammit
