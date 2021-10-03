@@ -1,5 +1,4 @@
 TO DO
- X Ilok bought, receive
  - find out how many cpus can be registered on slate license
  - inquire with peeps about combining forces to get a couple extra license subs
 
