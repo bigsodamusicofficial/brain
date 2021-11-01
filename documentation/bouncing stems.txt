@@ -1,0 +1,66 @@
+BOUNCING STEMS
+
+
+How dodo:
+
+1. Open up session
+  - set H/W buffer size to max (1024)
+  - if there is a video track, press the little blue “o” (to turn the video engine off) and close the video window if it’s open
+  - go to bounce to disk, make sure these settings are up:
+    - File Type: WAV
+    - Interleaved
+    - Bit Depth: 24 Bit
+    - Sample Rate: 48kHz
+    - hit “cancel”
+
+2. Make a folder for the stems
+  - put the folder in the protools session folder and name it “[session name] Stems”
+
+3. Solo and bounce individual assets (check step 4 first). there are a few different types of stemming configurations:
+  - MUSIC: EPIDEMIC 
+    - {Full Mix} (just name this the track name)
+    - [Instrumental Version] (name this “Track Name [Instrumental Version]”)
+    - BASS
+    - DRUMS
+    - INSTRUMENTS
+    - A Capella
+    - A Capella (clean)*
+    - {Full mix} (clean)*
+  - MUSIC: FULL STEMS
+    - Full Mix
+    - INSTRUMENTAL
+    - Kick
+    - Snare
+    - Hat
+    - Percs
+    - Bass
+    - Guit
+    - Guit Lead
+    - Keys
+    - Keys Lead
+    - Vox
+    - etc…
+  - MUSIC: SHOW
+    - INSTRUMENTAL
+    - KICK
+    - BG VOX
+  - VIDEO: POST PRODUCTION
+    - Full Mix
+    - VO
+    - Music
+    - SFX
+    - Room 
+
+  *don’t worry about bouncing clean versions unless you know how to make clean edits
+
+4. Things to know before bouncing:
+  - Duration: always always bounce the exact same duration. For video post, this duration needs to be the length of the video every time. For music, find a track that encompasses the whole song and select that. When there’s no video track, there always needs to be a little bit of space before and after the track
+  - Naming: name each stem “[session name] [stem name]” ie, “Dootdoot BASS”
+  - Limiter: there is usually a limiter on the master track. for music stems that are going to mastering (epidemic or full stems), open the limiter and turn output down to 0.0db. for other styles of stems, leave it up
+  - Listening: you don’t have to listen every single mf track, just listen to the first bounce you do to make sure the bounce handler isn’t screwing up. you only need to confirm track length once
+  - Soloing: this is the tricky bit. Rule: never ever ever mute or unmute tracks; only use soloing to narrow down the tracks that belong in the stem. Here are some examples of stuff:
+    = Epidemic DRUMS: probably best to leave things up on the monitors and listen as you solo stuff. start with the obvious: kick, snare, hats, etc. make sure to grab all little random percs and things like vinyl crackle too. look for sharp transients in the waveforms. feel free to click around, solo, unsolo. 
+    = Show BG VOX: all vox should be stacked in one area. solo and unsolo things that look like vocals (sporatic blobs). most bg vox will be in pairs, usually panned off. grab all pairs. you might need to listen to the song to ascertain which vocals are the leads
+    = Video SFX: sfx will usually be in a group. they will be cut up little pieces, sparse across the session. always solo the SFX Room bus as well
+
+

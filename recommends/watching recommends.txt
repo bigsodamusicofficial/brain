@@ -2,8 +2,14 @@ alex 3 movies:
  - don’t breathe
  - the ruins
 
+horrors:
+ - the lamb, a24
+ - the lighthouse, a24
+ - The discovery
+ - My son
+ - The midnight swim
+
 recs:
  - tyler live at lolla
  - mulholland drive
  - lil wayne untold story (yt)
- - rick owens in studio nyt (yt)
